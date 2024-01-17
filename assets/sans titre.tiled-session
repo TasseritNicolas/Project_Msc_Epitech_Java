@@ -1,0 +1,79 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "D:/game/v1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "D:/game/tsx files/1.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/2.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/3.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/4.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/6.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/7.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/8.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/9.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/TX Shadow Plant.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/TX Shadow.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/fdz.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/rt.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/z0.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/tsx files/z3.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/game/v1.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -34,
+                "y": 2
+            }
+        },
+        "D:/game/v1.tmx#z": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Nicolas/Desktop/T-JAV-501-REN_4/assets",
+    "last.imagePath": "C:/Users/Nicolas/Desktop/T-JAV-501-REN_4/assets/Texture",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "map.width": 50,
+    "openFiles": [
+        "D:/game/v1.tmx"
+    ],
+    "project": "sans titre.tiled-project",
+    "recentFiles": [
+        "D:/game/v1.tmx"
+    ],
+    "tileset.embedInMap": true
+}
